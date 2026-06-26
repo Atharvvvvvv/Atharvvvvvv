@@ -12,7 +12,6 @@ B.Tech CSE student focused on:
 - Preparing for open-source contributions and GSoC
 
 ## Featured Projects
-- AI Resume Analyzer
 - DevOps CI/CD Pipeline
 - Twitter Clone Backend
 - ML Dashboard
