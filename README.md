@@ -8,7 +8,7 @@ B.Tech CSE student focused on:
 
 
 ## Tech Stack
-Python | Django | FastAPI | PostgreSQL | Git | Linux
+Java | C | C++ | Python | Django | PostgreSQL | Git | Github| html | CSS | JavaScript | SQL | 
 
 
 # 💻 Tech Stack:
